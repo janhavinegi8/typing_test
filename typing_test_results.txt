@@ -1,0 +1,10 @@
+Name: janvi
+Time Elapsed: 19.40 seconds
+Accuracy: 88.89%
+WPM: 27.84
+----------------------------------------
+Name: abc
+Time Elapsed: 6.15 seconds
+Accuracy: 0.00%
+WPM: 9.75
+----------------------------------------
